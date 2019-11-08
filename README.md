@@ -23,7 +23,3 @@ from banks to news websites, and present a major challenge to making sure people
 
 https://www.youtube.com/c/HA-MRX
 
-### Video Tutorial
-
-https://www.youtube.com/watch?v=-e3Iia_P7rA
-
